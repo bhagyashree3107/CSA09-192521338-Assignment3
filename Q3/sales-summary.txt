@@ -1,0 +1,5 @@
+DAILY SALES SUMMARY
+Store 1: 1200
+Store 1: 800
+Store 2: 950
+Store 2: 1100
